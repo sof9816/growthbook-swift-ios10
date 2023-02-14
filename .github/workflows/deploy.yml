@@ -27,3 +27,4 @@ jobs:
         with:
           useConfigFile: true
           configFilePath: ./.github/gitversion.yml
+ 
